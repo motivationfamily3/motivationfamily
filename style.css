@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+p{
+    top: 5%;
+    bottom: left;
+}
+.para{
+    height: 74vh;
+    float: right;
+    width: 50%;
+    margin-bottom: 200px;
+}
+.para1{
+    height: 80vh;
+    float: left;
+    width: 50%;
+}
+h2{ 
+    height: 10px;
+    width: 5%;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+p{
+    color: #fff;
+}
+    header a{
+    list-style-type: none;
+    float: right;
+    margin: 10px;
+    color: rgb(107, 20, 220);
+}
+#footer{
+    height: 80px;
+    background-color:rgb(11, 11, 110);
+    clear: both;
+    margin: 0px;
+}
+
